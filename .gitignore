@@ -1,0 +1,3 @@
+*.testingdata/forecast_starting_data.csv
+*.testingdata/macro_data.csv
+*.testingdata/training_data.csv
